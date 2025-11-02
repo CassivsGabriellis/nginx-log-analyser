@@ -57,3 +57,5 @@ Mozilla/5.0 - 332 requests
 Custom-AsyncHttpClient - 294 requests
 Mozilla/5.0 - 282 requests
 ```
+
+This project idea is from [roadmap](https://roadmap.sh/projects/nginx-log-analyser).
